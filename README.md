@@ -1,8 +1,8 @@
-# [Personal Website Card RN](https://elliotxleo.github.io/personal-website-card-rn/) | [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20"/>](https://www.linkedin.com/in/elliotgaramendi/) | [<img src="https://image.flaticon.com/icons/png/512/733/733553.png" height="20"/>](https://github.com/ElliotXLeo) | [<img src="https://image.flaticon.com/icons/png/512/145/145802.png" height="20"/>](https://www.facebook.com/elliotgaramendi) | [<img src="https://image.flaticon.com/icons/png/512/1384/1384055.png" height="20"/>](https://api.whatsapp.com/send?phone=51997045329) | [<img src="https://image.flaticon.com/icons/png/512/975/975645.png" height="20"/>](https://elliotxleo.github.io/personal-web-responsive-ym/) | [<img src="https://image.flaticon.com/icons/png/512/5439/5439199.png" height="20"/>](mailto:elliotgaramendi@gmail.com) | 
+# [Personal Website Card RN](https://elliotxleo.github.io/personal-website-card-rn/) | [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="20"/>](https://www.linkedin.com/in/elliotgaramendi/) | [<img src="https://image.flaticon.com/icons/png/512/733/733553.png" height="20"/>](https://github.com/ElliotXLeo) | [<img src="https://image.flaticon.com/icons/png/512/145/145802.png" height="20"/>](https://www.facebook.com/elliotgaramendi) | [<img src="https://image.flaticon.com/icons/png/512/1384/1384055.png" height="20"/>](https://api.whatsapp.com/send?phone=51997045329) | [<img src="https://image.flaticon.com/icons/png/512/975/975645.png" height="20"/>](https://nextjs-react-portafolio-fc.vercel.app) | [<img src="https://image.flaticon.com/icons/png/512/5439/5439199.png" height="20"/>](mailto:elliotgaramendi@gmail.com) | 
 
-[![personal-website-card-rn](https://i.imgur.com/o9SG9oO.png)](https://elliotxleo.github.io/personal-website-card-rn)
+[![personal-website-card-rn](https://i.postimg.cc/h4L1Dj8Y/personal-website-card-rn.png)](https://elliotxleo.github.io/personal-website-card-rn)
 
-Página Web Personal versión de Tarjeta, donde el profesional detalla mediante palabras clave los puestos a los cuales se quiere dedicar, un resumen de su perfil y metas, como también formas de contactarlo. Por otro lado, la web fue desarrollada bajo estándares: BEM, Mobile First, flexbox y grid.
+Página Web Personal versión de Tarjeta, donde el profesional detalla mediante palabras clave un resumen su experiencia e intereses, además cuenta con una presentación donde resume su perfil y metas, finalmente agrega formas de contactarlo.
 
 ## Instalación
 - Ubicarse en la carpeta que contendrá el proyecto
@@ -14,7 +14,7 @@ Página Web Personal versión de Tarjeta, donde el profesional detalla mediante 
 ## Tecnologías usadas
 | HTML | CSS |
 | --- | --- |
-| <img src="https://javier-rodriguez.vercel.app/img/logos/html-5.svg" width="1000"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1200px-CSS.3.svg.png" width="1000"/> |
+| <img src="https://i.postimg.cc/rF6WrLjr/html.png" width="1000"/> | <img src="https://i.postimg.cc/mgSDG9F2/css.png" width="1000"/> |
 
 ## Redes sociales
 - LinkedIn: https://www.linkedin.com/in/elliotgaramendi/
@@ -25,6 +25,6 @@ Página Web Personal versión de Tarjeta, donde el profesional detalla mediante 
 
 - WhatsApp: https://api.whatsapp.com/send?phone=51997045329
 
-- Personal Web: https://elliotxleo.github.io/personal-web-responsive-ym/
+- Personal Web: https://nextjs-react-portafolio-fc.vercel.app
 
 - Correo: elliotgaramendi@gmail.com
