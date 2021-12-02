@@ -4,39 +4,31 @@
   box-sizing: border-box;
 }
 
-html {
-  height: 100%;
-}
-
 .body {
-  min-height: 100%;
+  min-height: 100vh;
   display: flex;
   background-image: url(https://wallpaperaccess.com/full/3949076.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
   background-size: cover;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  align-items: center;
   font-size: 0.8rem;
 }
 
 .main {
-  display: flex;
-  flex-direction: column;
   max-width: 426px;
   background-color: rgba(0, 0, 0, 0.5);
   color: #ffffff;
   margin: auto;
   padding: 2rem;
   border-radius: 1rem;
-  align-items: center;
   text-align: center;
   transition: all 0.5s;
 }
 
 .main__img {
   border-radius: 50%;
+  width: 100%;
   max-width: 300px;
 }
 
@@ -46,31 +38,32 @@ html {
   font-weight: lighter;
 }
 
-.main__puestos {
+.main__palabras-clave {
   letter-spacing: 0.2rem;
   margin-bottom: 1rem;
 }
 
 .main__descripcion {
-  text-align: justify;
   margin-bottom: 1rem;
 }
 
 .main__contacto {
   list-style: none;
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .main__enlace {
-  color: #ffffff;
+  display: block;
+  color: #e0e0e0;
   font-size: 2rem;
   margin: 1rem;
   transition: all 0.5s;
-  display: block;
 }
 
 .main__enlace:hover {
-  filter: brightness(60%);
+  filter: brightness(120%);
   transform: scale(1.5);
 }
 
@@ -78,6 +71,7 @@ html {
   .body {
     font-size: 0.9rem;
   }
+
   .main {
     max-width: 640px;
   }
